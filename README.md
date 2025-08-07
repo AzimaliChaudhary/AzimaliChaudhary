@@ -27,7 +27,8 @@ Each project helped me understand **real-life software development** better and 
 
  📫 Contact Me
 - 📧 chaudharyazimali@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/azimchaudhary)
+- 💼 [LinkedIn]
+ (www.linkedin.com/in/azimchaudhary)
 - 💻 [GitHub](https://github.com/AzimaliChaudhary)
 
 ---
